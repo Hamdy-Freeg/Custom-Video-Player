@@ -25,6 +25,8 @@ h1 {
   background-color: #000 !important;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+  background-image: url(../img/poster.png);
+  background-size: cover;
 }
 
 .controls {
